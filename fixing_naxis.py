@@ -1,5 +1,5 @@
 ### To fix stupid Swarp headers with float NAXIS
-
+### April 2019. Mireia Montes
 
 
 from functools import partial
